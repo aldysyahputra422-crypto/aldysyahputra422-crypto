@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Aldy Syahputra 👋
+# Hi, I'm Aldi Syaputra 👋
 ### AI Product Builder · Full-Stack Developer · Founder @ Sobat Ambis
 
 Building **AI-powered SaaS products, multi-agent automation workflows, and data-driven web applications** from Surabaya, Indonesia. Bridging **Digital Business strategy** with rapid AI-assisted software engineering.
